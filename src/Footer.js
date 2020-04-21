@@ -8,7 +8,7 @@ import './Footer.css';
 function Footer(props) {
 
   return (
-    <div class='Footer'>
+    <div className='Footer'>
       <footer>Beck Haywood copyright 2020</footer>
     </div>
   )
